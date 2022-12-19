@@ -1,0 +1,1 @@
+EntropyMC is the developer of several Minecraft-related projects, the main one being the Retro Coder Pack, a gradle tool that allows users to decompile and experiment with the source code of older Minecraft: Java Edition versiosn.
