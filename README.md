@@ -1,2 +1,2 @@
 # .github
-EntropyMC is the developer for the Retro Coder Pack, among other tools.
+AncientMC is the developer for the Ancient Coder Pack, among other tools for Minecraft: Java Edition
